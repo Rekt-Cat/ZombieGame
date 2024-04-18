@@ -1,3 +1,3 @@
 # ZombieGame
-Developing a game (Or trying)
-Aaar ya paar
+- Developing a game (Or trying)
+- Aaar ya paar
